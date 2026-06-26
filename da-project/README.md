@@ -41,6 +41,21 @@ This project recreates the look, feel, and interactivity of a **Power BI report*
 
 ---
 
+# Screenshots
+
+## Home Page
+<img src="images/s1.png" width="800">
+
+## Products Page
+<img src="images/s2.png" width="800">
+
+## Shopping Cart
+<img src="images/s3.png" width="800">
+
+## Admin Dashboard
+<img src="images/s4.png" width="800">
+<img src="images/s5.png" width="800">
+
 ## 🚀 Quickstart
 
 ### Prerequisites
