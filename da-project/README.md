@@ -63,7 +63,7 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-The app opens at **http://localhost:8501** automatically.  
+T
 The Titanic CSV is downloaded from GitHub and cached in `data/` on first run.
 
 ---
