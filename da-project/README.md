@@ -46,14 +46,16 @@ This project recreates the look, feel, and interactivity of a **Power BI report*
 ## Home Page
 <img src="images/s1.png" width="800">
 
-## Products Page
+## Demographics and Fares
 <img src="images/s2.png" width="800">
 
-## Shopping Cart
+## Segmentation Analysis
 <img src="images/s3.png" width="800">
 
-## Admin Dashboard
+## Distributions And Pattens
 <img src="images/s4.png" width="800">
+
+## Advanced EDA
 <img src="images/s5.png" width="800">
 
 ## 🚀 Quickstart
