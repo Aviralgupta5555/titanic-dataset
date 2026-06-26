@@ -3,17 +3,6 @@
 # 🚢 Titanic EDA Dashboard
 ### A Power BI–Style Interactive Analytics App Built in Python
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-A fully interactive, Power BI–inspired exploratory data analysis dashboard for the Titanic dataset — built entirely in Python with **Streamlit**, **Pandas**, **NumPy**, and **Plotly**. No external BI tool required.
-
-[Features](#-features) • [Quickstart](#-quickstart) • [Project Structure](#-project-structure) • [Tech Stack](#-tech-stack) • [Dataset](#-dataset)
-
-![Dashboard Preview](data/preview.png)
 
 </div>
 
